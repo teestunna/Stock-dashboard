@@ -77,7 +77,7 @@
 import {getQuote} from '../api/quote.js'
 
 export default {
-  name: 'HelloWorld',
+  name: 'StockBoard',
   el: '#app',
   data: function() {
     return {
